@@ -1,5 +1,10 @@
+#virtual environment
 study/
+
+#python cache
 __pycache__/
 *.pyc
-.env
 *.dbgit
+
+#env file
+.env
